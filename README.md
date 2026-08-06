@@ -16,7 +16,11 @@ Para garantir que a IA gerasse respostas com alto rigor técnico e sem alucinaç
 4. **[Random Forest vs XGBoost: Qual Algoritmo Escolher para Seus Dados Tabulares?](https://turing.education/blog/random-forest-vs-xgboost-qual-algoritmo-escolher-para-seus-dados-tabulares)**
 5. **[XGBoost vs Random Forest for Stock Prediction](https://slmaj.com/blog/xgboost-vs-random-forest)**
 
-*(Nota: Todos os arquivos originais em formato PDF/TXT alimentaram a base de conhecimento exclusiva deste caderno).*
+Arquivos PDFs que estão neste mesmo repositório:
+
+6. **How can machine learning advance quantitative asset management**
+7. **Asset Management in Machine Learning State of research and State of practice**
+8. **Principal Component Analysis (PCA) Explained**
 
 ---
 
