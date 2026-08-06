@@ -1,4 +1,4 @@
-## 📓 Miniguia de Estudo (Entrega Final)
+## 📓 Miniguia de Estudo
 
 ### 1. Resumo Estruturado do Assunto
 No mercado financeiro, os modelos supervisionados baseados em árvores, como Random Forest e XGBoost, dominam a previsão de retornos e a geração de sinais de trading a partir de dados estruturados e tabulares. Enquanto o Random Forest utiliza o método de bagging para treinar múltiplas árvores de decisão independentes a partir de subamostras aleatórias de dados, diluindo a variância e mitigando o risco de overfitting, o XGBoost emprega o gradient boosting sequencial para focar nos erros residuais e extrair sinais preditivos sutis de bases de dados imensas. Para evitar distorções e look-ahead bias decorrentes do fluxo temporal dos dados, esses algoritmos dependem de uma rigorosa Walk-Forward Validation e são frequentemente combinados em arquiteturas de ensemble por voto majoritário de consenso para filtrar sinais falsos.
